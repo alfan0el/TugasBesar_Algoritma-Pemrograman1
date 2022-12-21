@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormIntegral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormIntegralProses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormIntegralProses2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormIntegralProses3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormIntegralProses4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTurunan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTurunanProses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTurunanProses2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTurunanProses3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTurunanProses4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormTurunanProses5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

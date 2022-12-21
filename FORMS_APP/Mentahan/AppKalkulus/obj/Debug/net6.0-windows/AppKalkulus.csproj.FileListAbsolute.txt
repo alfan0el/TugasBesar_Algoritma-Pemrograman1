@@ -1,0 +1,84 @@
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.exe
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.deps.json
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.runtimeconfig.json
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.dll
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.pdb
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.AssemblyReference.cache
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.Form1.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.GenerateResource.cache
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.AssemblyInfoInputs.cache
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.AssemblyInfo.cs
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.CoreCompileInputs.cache
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.dll
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\refint\AppKalkulus.dll
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.pdb
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.genruntimeconfig.cache
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\ref\AppKalkulus.dll
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegral.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunan.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses2.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses3.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses4.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses5.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses2.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses3.resources
+D:\VisualStudioFile\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses4.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.exe
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.Form1.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegral.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses2.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses3.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses4.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunan.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses2.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses3.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses4.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses5.resources
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.GenerateResource.cache
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.AssemblyInfo.cs
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.dll
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\refint\AppKalkulus.dll
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.pdb
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.deps.json
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.runtimeconfig.json
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.dll
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.pdb
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.genruntimeconfig.cache
+C:\Users\user\Downloads\alfa\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\ref\AppKalkulus.dll
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.Form1.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegral.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses2.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses3.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormIntegralProses4.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunan.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses2.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses3.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses4.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.FormTurunanProses5.resources
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.GenerateResource.cache
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.AssemblyInfo.cs
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.dll
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\refint\AppKalkulus.dll
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.pdb
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.exe
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.deps.json
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.runtimeconfig.json
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.dll
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\bin\Debug\net6.0-windows\AppKalkulus.pdb
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\AppKalkulus.genruntimeconfig.cache
+C:\Users\user\Desktop\TB ALGO FIX\AppKalkulus-20221217T110942Z-001\AppKalkulus\AppKalkulus\AppKalkulus\obj\Debug\net6.0-windows\ref\AppKalkulus.dll
